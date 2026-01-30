@@ -1,0 +1,111 @@
+"1","Page","","","","","","","","","UML Class Diagram","",""
+"2","Class","UML","1.0","","","","","","","User","-id: String{id}
+-firstName: String
+-lastName: String
+-email: String
+-nickname: String
+-profilePic: String
+-measurements: Measurement
+-roles: Array<Role>
+-bars: Array<Bar>
+-recipesWritten: Array<Recipe>
+-recipesIncompleted: Array<Recipe>
+-recipesCompleted: Array<Recipe>","+getFirstName(): String
++getLastName(): String +editName(firstName: String, lastName: String): Boolean
++getEmail(): String
++editEmail(email: String): Boolean
++changePassword(currPwd: string, newPwd: string): Boolean
++setUserSettings(firstName: String, lastName: String, email: String, currPwd: String, newPwd: String): String
++getNickname(): String
++setNickname(nickname: String): Boolean +getProfilePic(): String
++setProfilePic(img: String): Boolean
++getRoles(): Array<Role> +setRoles(roles: Array<Role>): Boolean
++changeProfileSettings(nickname: String, img: String, roles: Array<Role>): String
++getBars():Array<Bar> +addBars(barID: String):Boolean +removeBars(barID: String):Boolean
++getRec(type: String): Array<Recipe> +addRec(type: String, recipeID: String): Boolean +removeRec(type: String, recipeID: String): Boolean +getUser(): User"
+"3","Class","UML","1.0","","","","","","","Recipe","-id: String{id}
+-name: String -author: User
+-published: Boolean
+-steps: Array<Step>
+-equipments: Array<Equipment>","+getId(): String +getName(): String +setName(name: String): Boolean
++getAuthor(): String
++setAuthor(user: User): Boolean +getPublished(): Boolean +setPublished(publish: Boolean):Boolean
++getSteps(): Array<Step> +setStep(steps: Array<Step>): Boolean
++getEquipments(): Array<Equipment>
++setEquipment(equipments: Array<Equipment>): Boolean
++getRecipe(): String
++setRecipe(name: String, user: User, publish: Boolean, steps: Array<Step>, equipments: Array<Equipment>): String +removeRecipe(): Boolean"
+"4","Class","UML","1.0","","","","","","","Step","-id: String{id}
+-objToDo: Equipment
+-objDoing: Equipment
+-Action: Action
+-value: Integer
+-units: Unit
+-completed: Boolean","+getToDo(): Equipment
++getDoing(): Equipment +getAction(): Action +getUnits(): Units +getValue(): Integer
++getCompleted(): Boolean +setCompleted(completed: Boolean): Boolean
++setStep(start: Equipment, end: Equipment, Action: String,value: Integer, units: Units): Boolean +getRecipe(): String"
+"5","Text","Standard","1.0","","26.0","","","","","Tipsy UML Class Diagrams","",""
+"6","Text","Standard","1.0","","26.0","","","","","Rahul Sondhi  |  November 3, 2019","",""
+"7","Class","UML","1.0","","","","","","","Equipment","-id: String{id} -name: String -img: String -actionDoTo: Array<Action>
+-actionDoing: Array<Action>
+-type: EquipmentType
+-published: Boolean -filled: Boolean","+getId(): String +getName(): String -setName(name: String) : Boolean
++getImg(): String -setImg(img: String): Boolean +getActionDoTo(): Array<Action>
+-setActionDoTo(actions: Array<Action>): Boolean
++getActionDoing(): Array<Action>
+-setActionDoing(actions: Array<Action>): Boolean
++getType(): EquipmentType
+-setType(type: equipmentType): Boolean
++setEquipment(name: String, img: String, doTo: Array<Action>, doing: Array<Action>, type: EquipmentType): String
++removeEquipment(): Boolean +getEquipment(): String
++getPublished(): Boolean +setPublished(publish: Boolean):Boolean
++getFilled(): Boolean +setFilled(filled: Boolean):Boolean"
+"8","Class","UML","1.0","","","","","","","Bar","-id: String{id}
+-name: String
+-owner: User -managers: Array<User>
+-workers: Array<User>
+-recipes: Array<Recipe>
+-published: Boolean","+getId(): String +getName(): String +editName(name: String): Boolean
++getOwner(): String
++setOwner(USer): String
++getManagers(): Array<User> +setManagers(managers: Array<User>): Boolean
++getWorkers(): Array<User>
++setWorkers(workers: Array<User>): Boolean +getRecipes(): Array<Recipe> +setRecipes(recipes: Array<Recipe>): Boolean
++getPublished(): Boolean +setPublished(publish: Boolean):Boolean
++saveBar(): Boolean
++removeBar(): Boolean +getBar(): String"
+"9","Class","UML","1.0","","","","","","","<<enumeration>>
+Role","Admin
+User",""
+"10","Class","UML","1.0","","","","","","","<<enumeration>>
+EquipmentType","Ingredient Syrup Mixer
+Spirits
+Glass
+Shaker
+Strainer
+Press
+Crusher Knife
+Measuring Utensil Blender Peeler
+Heating Cooling",""
+"11","Class","UML","1.0","","","","","","","<<enumeration>>
+Action","Pour Add
+Mix Shake
+Strain
+Press Crush Cut Peel Measure Blend Sprinkle Ignite Heat Cool Freeze",""
+"12","Class","UML","1.0","","","","","","","<<enumeration>>
+Measurement","US Metric ",""
+"13","Class","UML","1.0","","","","","","","Unit","-id: String{id} -name: String -mlMeasurement: Integer -flozMeasurement: Integer ","+getName(): String +getMlMeasurement(): Integer +getFlozMeasurement(): Integer +getUnit(): String"
+"14","Line","","1.0","","","2.0","3.0","","","1","*",""
+"15","Line","","1.0","","26.0","5.0","5.0","","","","",""
+"16","Line","","1.0","","","4.0","3.0","","Composition","1..*","1",""
+"17","Line","","1.0","","","7.0","3.0","","Aggregation","","1..*","*"
+"18","Line","","1.0","","","3.0","8.0","Aggregation","","1..*","",""
+"19","Line","","1.0","","","2.0","8.0","","","*","1..*",""
+"20","Line","","1.0","","","13.0","4.0","","Aggregation","0..1","",""
+"21","Line","","1.0","","","12.0","2.0","Arrow","","1","",""
+"22","Line","","1.0","","","2.0","9.0","","Arrow","1..*","",""
+"23","Line","","1.0","","","4.0","11.0","","Arrow","1","",""
+"24","Line","","1.0","","","7.0","11.0","","Arrow","1..*","",""
+"25","Line","","1.0","","","7.0","10.0","","Arrow","1","",""
+"26","Group 1","","1.0","","","","","","","","",""
