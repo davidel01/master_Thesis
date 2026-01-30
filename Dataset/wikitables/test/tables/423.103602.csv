@@ -1,0 +1,13 @@
+"Truncated order-6 dodecahedral honeycomb","Truncated order-6 dodecahedral honeycomb"
+"Type","Paracompact uniform honeycomb"
+"Schläfli symbols","t{5,3,6}
+t0,1{5,3,6}"
+"Coxeter diagrams","{{CDD|node_1|5|node_1|3|node|6|node}}
+{{CDD|node_1|5|node_1|3|node|6|node_h0}} ↔ {{CDD|node_1|5|node_1|split1|branch}}"
+"Cells","t{5,3} File:Uniform polyhedron-53-t01.png
+{3,6} File:Uniform tiling 63-t2.png"
+"Vertex figure","File:Truncated order-6 dodecahedral honeycomb verf.png
+Hexagonal pyramid { }v{6}"
+"Coxeter groups",", [6,3,5]
+[5,3[3]]"
+"Properties","Vertex-transitive"

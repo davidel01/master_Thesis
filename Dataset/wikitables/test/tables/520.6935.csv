@@ -1,0 +1,5 @@
+"Population{{UN_Population|ref}}","Population{{UN_Population|ref}}"
+"Year","Million"
+"1950","6.1"
+"2000","31.4"
+"{{UN_Population|Year}}","{{#expr:{{formatnum:{{UN_Population|Kenya}}|R}}/1e6 round 1}}"

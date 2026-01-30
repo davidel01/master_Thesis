@@ -1,0 +1,6 @@
+"Results","Points"
+"Win","4 points"
+"Draw","3 points"
+"4 or more tries","1 point"
+"Loss within 7 points","1 point"
+"Loss greater than 7 points","0 points"

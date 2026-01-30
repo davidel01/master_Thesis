@@ -1,0 +1,222 @@
+"{{Tooltip|Pos|Position}}","Class","{{Tooltip|No|Car number}}","Team","Drivers","Chassis","Tyre","{{Tooltip|Laps|Laps completed}}","Time/Retired"
+"{{Tooltip|Pos|Position}}","Class","{{Tooltip|No|Car number}}","Team","Drivers","Engine","Tyre","{{Tooltip|Laps|Laps completed}}","Time/Retired"
+"1","LMP1","7","{{flagicon|JPN}} Toyota Gazoo Racing","{{flagicon|GBR}} Mike Conway
+{{flagicon|JPN}} Kamui Kobayashi
+{{flagicon|ARG}} José María López","Toyota TS050 Hybrid","{{Michelin}}","230","6:00:21.800"
+"1","LMP1","7","{{flagicon|JPN}} Toyota Gazoo Racing","{{flagicon|GBR}} Mike Conway
+{{flagicon|JPN}} Kamui Kobayashi
+{{flagicon|ARG}} José María López","Toyota 2.4L Turbo V6","{{Michelin}}","230","6:00:21.800"
+"2","LMP1","8","{{flagicon|JPN}} Toyota Gazoo Racing","{{flagicon|ESP}} Fernando Alonso
+{{flagicon|SUI}} Sébastien Buemi
+{{flagicon|JPN}} Kazuki Nakajima","Toyota TS050 Hybrid","{{Michelin}}","230","+11.440"
+"2","LMP1","8","{{flagicon|JPN}} Toyota Gazoo Racing","{{flagicon|ESP}} Fernando Alonso
+{{flagicon|SUI}} Sébastien Buemi
+{{flagicon|JPN}} Kazuki Nakajima","Toyota 2.4L Turbo V6","{{Michelin}}","230","+11.440"
+"3","LMP1","1","{{flagicon|SUI}} Rebellion Racing","{{flagicon|SUI}} Neel Jani
+{{flagicon|GER}} André Lotterer
+{{flagicon|BRA}} Bruno Senna","Rebellion R13","{{Michelin}}","226","+4 Laps"
+"3","LMP1","1","{{flagicon|SUI}} Rebellion Racing","{{flagicon|SUI}} Neel Jani
+{{flagicon|GER}} André Lotterer
+{{flagicon|BRA}} Bruno Senna","Gibson GL458 4.5 L V8","{{Michelin}}","226","+4 Laps"
+"4","LMP1","11","{{flagicon|RUS}} SMP Racing","{{flagicon|RUS}} Mikhail Aleshin
+{{flagicon|GBR}} Jenson Button
+{{flagicon|RUS}} Vitaly Petrov","BR Engineering BR1","{{Michelin}}","219","+7 Laps"
+"4","LMP1","11","{{flagicon|RUS}} SMP Racing","{{flagicon|RUS}} Mikhail Aleshin
+{{flagicon|GBR}} Jenson Button
+{{flagicon|RUS}} Vitaly Petrov","AER P60B 2.4 L Turbo V6","{{Michelin}}","219","+7 Laps"
+"5","LMP1","4","{{flagicon|AUT}} ByKolles Racing Team","{{flagicon|FRA}} Tom Dillmann
+{{flagicon|GBR}} James Rossiter
+{{flagicon|GBR}} Oliver Webb","ENSO CLM P1/01","{{Michelin}}","219","+11 Laps"
+"5","LMP1","4","{{flagicon|AUT}} ByKolles Racing Team","{{flagicon|FRA}} Tom Dillmann
+{{flagicon|GBR}} James Rossiter
+{{flagicon|GBR}} Oliver Webb","Nismo VRX30A 3.0 L Turbo V6","{{Michelin}}","219","+11 Laps"
+"6","LMP2","37","{{flagicon|CHN}} Jackie Chan DC Racing","{{flagicon|MYS}} Jazeman Jaafar
+{{flagicon|MYS}} Nabil Jeffri
+{{flagicon|MYS}} Weiron Tan","Oreca 07","{{Dunlop}}","217","+13 Laps"
+"6","LMP2","37","{{flagicon|CHN}} Jackie Chan DC Racing","{{flagicon|MYS}} Jazeman Jaafar
+{{flagicon|MYS}} Nabil Jeffri
+{{flagicon|MYS}} Weiron Tan","Gibson GK428 4.2L V8","{{Dunlop}}","217","+13 Laps"
+"7","LMP2","38","{{flagicon|CHN}} Jackie Chan DC Racing","{{flagicon|FRA}} Gabriel Aubry
+{{flagicon|MON}} Stéphane Richelmi
+{{flagicon|CHN}} Ho-Pin Tung","Oreca 07","{{Dunlop}}","217","+13 Laps"
+"7","LMP2","38","{{flagicon|CHN}} Jackie Chan DC Racing","{{flagicon|FRA}} Gabriel Aubry
+{{flagicon|MON}} Stéphane Richelmi
+{{flagicon|CHN}} Ho-Pin Tung","Gibson GK428 4.2L V8","{{Dunlop}}","217","+13 Laps"
+"8","LMP2","36","{{flagicon|FRA}} Signatech Alpine Matmut","{{flagicon|FRA}} Nicolas Lapierre
+{{flagicon|BRA}} André Negrão
+{{flagicon|FRA}} Pierre Thiriet","Alpine A470","{{Dunlop}}","217","+13 Laps"
+"8","LMP2","36","{{flagicon|FRA}} Signatech Alpine Matmut","{{flagicon|FRA}} Nicolas Lapierre
+{{flagicon|BRA}} André Negrão
+{{flagicon|FRA}} Pierre Thiriet","Gibson GK428 4.2L V8","{{Dunlop}}","217","+13 Laps"
+"9","LMP2","28","{{flagicon|FRA}} TDS Racing","{{flagicon|FRA}} Jean-Éric Vergne
+{{flagicon|FRA}} François Perrodo
+{{flagicon|FRA}} Matthieu Vaxivière","Oreca 07","{{Dunlop}}","216","+14 Laps"
+"9","LMP2","28","{{flagicon|FRA}} TDS Racing","{{flagicon|FRA}} Jean-Éric Vergne
+{{flagicon|FRA}} François Perrodo
+{{flagicon|FRA}} Matthieu Vaxivière","Gibson GK428 4.2L V8","{{Dunlop}}","216","+14 Laps"
+"10","LMP2","50","{{flagicon|FRA}} Larbre Compétition","{{flagicon|FRA}} Erwin Creed
+{{flagicon|JPN}} Keiko Ihara
+{{flagicon|FRA}} Romano Ricci","Ligier JS P217","{{Michelin}}","211","+19 Laps"
+"10","LMP2","50","{{flagicon|FRA}} Larbre Compétition","{{flagicon|FRA}} Erwin Creed
+{{flagicon|JPN}} Keiko Ihara
+{{flagicon|FRA}} Romano Ricci","Gibson GK428 4.2L V8","{{Michelin}}","211","+19 Laps"
+"11","LMGTE
+Pro","92","{{flagicon|GER}} Porsche GT Team","{{flagicon|DEN}} Michael Christensen
+{{flagicon|FRA}} Kévin Estre","Porsche 911 RSR","{{Michelin}}","207","+23 Laps"
+"11","LMGTE
+Pro","92","{{flagicon|GER}} Porsche GT Team","{{flagicon|DEN}} Michael Christensen
+{{flagicon|FRA}} Kévin Estre","Porsche 4.0L Flat 6","{{Michelin}}","207","+23 Laps"
+"12","LMGTE
+Pro","82","{{flagicon|GER}} BMW Team MTEK","{{flagicon|GBR}} Tom Blomqvist
+{{flagicon|POR}} António Félix da Costa","BMW M8 GTE","{{Michelin}}","207","+23 Laps"
+"12","LMGTE
+Pro","82","{{flagicon|GER}} BMW Team MTEK","{{flagicon|GBR}} Tom Blomqvist
+{{flagicon|POR}} António Félix da Costa","BMW S63 4.0 L Turbo V8","{{Michelin}}","207","+23 Laps"
+"13","LMGTE
+Pro","67","{{flagicon|USA}} Ford Chip Ganassi Team UK","{{flagicon|GBR}} Andy Priaulx
+{{flagicon|GBR}} Harry Tincknell","Ford GT","{{Michelin}}","207","+23 Laps"
+"13","LMGTE
+Pro","67","{{flagicon|USA}} Ford Chip Ganassi Team UK","{{flagicon|GBR}} Andy Priaulx
+{{flagicon|GBR}} Harry Tincknell","Ford EcoBoost 3.5L Turbo V6","{{Michelin}}","207","+23 Laps"
+"14","LMGTE
+Pro","51","{{flagicon|ITA}} AF Corse","{{flagicon|GBR}} James Calado
+{{flagicon|ITA}} Alessandro Pier Guidi","Ferrari 488 GTE Evo","{{Michelin}}","207","+23 Laps"
+"14","LMGTE
+Pro","51","{{flagicon|ITA}} AF Corse","{{flagicon|GBR}} James Calado
+{{flagicon|ITA}} Alessandro Pier Guidi","Ferrari F154CB 3.9L Turbo V8","{{Michelin}}","207","+23 Laps"
+"15","LMGTE
+Pro","91","{{flagicon|GER}} Porsche GT Team","{{flagicon|ITA}} Gianmaria Bruni
+{{flagicon|AUT}} Richard Lietz","Porsche 911 RSR","{{Michelin}}","207","+23 Laps"
+"15","LMGTE
+Pro","91","{{flagicon|GER}} Porsche GT Team","{{flagicon|ITA}} Gianmaria Bruni
+{{flagicon|AUT}} Richard Lietz","Porsche 4.0 L Flat 6","{{Michelin}}","207","+23 Laps"
+"16","LMGTE
+Pro","95","{{flagicon|GBR}} Aston Martin Racing","{{flagicon|DEN}} Marco Sørensen
+{{flagicon|DEN}} Nicki Thiim","Aston Martin Vantage AMR","{{Michelin}}","206","+24 Laps"
+"16","LMGTE
+Pro","95","{{flagicon|GBR}} Aston Martin Racing","{{flagicon|DEN}} Marco Sørensen
+{{flagicon|DEN}} Nicki Thiim","Aston Martin 4.0 L Turbo V8","{{Michelin}}","206","+24 Laps"
+"17","LMGTE
+Pro","81","{{flagicon|GER}} BMW Team MTEK","{{flagicon|NED}} Nicky Catsburg
+{{flagicon|GER}} Martin Tomczyk","BMW M8 GTE","{{Michelin}}","206","+24 Laps"
+"17","LMGTE
+Pro","81","{{flagicon|GER}} BMW Team MTEK","{{flagicon|NED}} Nicky Catsburg
+{{flagicon|GER}} Martin Tomczyk","BMW S63 4.0L Turbo V8","{{Michelin}}","206","+24 Laps"
+"18","LMGTE
+Pro","66","{{flagicon|USA}} Ford Chip Ganassi Team UK","{{flagicon|GER}} Stefan Mücke
+{{flagicon|FRA}} Olivier Pla","Ford GT","{{Michelin}}","206","+24 Laps"
+"18","LMGTE
+Pro","66","{{flagicon|USA}} Ford Chip Ganassi Team UK","{{flagicon|GER}} Stefan Mücke
+{{flagicon|FRA}} Olivier Pla","Ford EcoBoost 3.5L Turbo V6","{{Michelin}}","206","+24 Laps"
+"19","LMGTE
+Pro","97","{{flagicon|GBR}} Aston Martin Racing","{{flagicon|GBR}} Alex Lynn
+{{flagicon|BEL}} Maxime Martin","Aston Martin Vantage AMR","{{Michelin}}","206","+24 Laps"
+"19","LMGTE
+Pro","97","{{flagicon|GBR}} Aston Martin Racing","{{flagicon|GBR}} Alex Lynn
+{{flagicon|BEL}} Maxime Martin","Aston Martin 4.0L Turbo V8","{{Michelin}}","206","+24 Laps"
+"20","LMP2","31","{{flagicon|USA}} DragonSpeed","{{flagicon|GBR}} Anthony Davidson
+{{flagicon|MEX}} Roberto Gonzalez
+{{flagicon|VEN}} Pastor Maldonado","Oreca 07","{{Michelin}}","205","+25 Laps"
+"20","LMP2","31","{{flagicon|USA}} DragonSpeed","{{flagicon|GBR}} Anthony Davidson
+{{flagicon|MEX}} Roberto Gonzalez
+{{flagicon|VEN}} Pastor Maldonado","Gibson GK428 4.2L V8","{{Michelin}}","205","+25 Laps"
+"21","LMP2","29","{{flagicon|NED}} Racing Team Nederland","{{flagicon|NED}} Frits van Eerd
+{{flagicon|NED}} Giedo van der Garde
+{{flagicon|NED}} Nyck de Vries","Dallara P217","{{Michelin}}","204","+26 Laps"
+"21","LMP2","29","{{flagicon|NED}} Racing Team Nederland","{{flagicon|NED}} Frits van Eerd
+{{flagicon|NED}} Giedo van der Garde
+{{flagicon|NED}} Nyck de Vries","Gibson GK428 4.2L V8","{{Michelin}}","204","+26 Laps"
+"22","LMGTE
+Pro","71","{{flagicon|ITA}} AF Corse","{{flagicon|GBR}} Sam Bird
+{{flagicon|ITA}} Davide Rigon","Ferrari 488 GTE","{{Michelin}}","202","+28 Laps"
+"22","LMGTE
+Pro","71","{{flagicon|ITA}} AF Corse","{{flagicon|GBR}} Sam Bird
+{{flagicon|ITA}} Davide Rigon","Ferrari F154CB 3.9 L Turbo V8","{{Michelin}}","202","+28 Laps"
+"23","LMGTE
+Am","56","{{flagicon|GER}} Team Project 1","{{flagicon|GER}} Jörg Bergmeister
+{{flagicon|USA}} Patrick Lindsey
+{{flagicon|NOR}} Egidio Perfetti","Porsche 911 RSR","{{Michelin}}","201","+29 Laps"
+"23","LMGTE
+Am","56","{{flagicon|GER}} Team Project 1","{{flagicon|GER}} Jörg Bergmeister
+{{flagicon|USA}} Patrick Lindsey
+{{flagicon|NOR}} Egidio Perfetti","Porsche 4.0L Flat 6","{{Michelin}}","201","+29 Laps"
+"24","LMGTE
+Am","90","{{flagicon|GBR}} TF Sport","{{flagicon|GBR}} Jonathan Adam
+{{flagicon|IRE}} Charlie Eastwood
+{{flagicon|TUR}} Salih Yoluç","Aston Martin Vantage GTE","{{Michelin}}","201","+29 Laps"
+"24","LMGTE
+Am","90","{{flagicon|GBR}} TF Sport","{{flagicon|GBR}} Jonathan Adam
+{{flagicon|IRE}} Charlie Eastwood
+{{flagicon|TUR}} Salih Yoluç","Aston Martin 4.5L V8","{{Michelin}}","201","+29 Laps"
+"25","LMGTE
+Am","98","{{flagicon|GBR}} Aston Martin Racing","{{flagicon|CAN}} Paul Dalla Lana
+{{flagicon|POR}} Pedro Lamy
+{{flagicon|AUT}} Mathias Lauda","Aston Martin Vantage GTE","{{Michelin}}","201","+29 Laps"
+"25","LMGTE
+Am","98","{{flagicon|GBR}} Aston Martin Racing","{{flagicon|CAN}} Paul Dalla Lana
+{{flagicon|POR}} Pedro Lamy
+{{flagicon|AUT}} Mathias Lauda","Aston Martin 4.5L V8","{{Michelin}}","201","+29 Laps"
+"26","LMGTE
+Am","86","{{flagicon|GBR}} Gulf Racing UK","{{flagicon|GBR}} Ben Barker
+{{flagicon|AUT}} Thomas Preining
+{{flagicon|GBR}} Michael Wainwright","Porsche 911 RSR","{{Michelin}}","201","+29 Laps"
+"26","LMGTE
+Am","86","{{flagicon|GBR}} Gulf Racing UK","{{flagicon|GBR}} Ben Barker
+{{flagicon|AUT}} Thomas Preining
+{{flagicon|GBR}} Michael Wainwright","Porsche 4.0L Flat 6","{{Michelin}}","201","+29 Laps"
+"27","LMGTE
+Am","54","{{flagicon|SUI}} Spirit of Race","{{flagicon|ITA}} Francesco Castellacci
+{{flagicon|ITA}} Giancarlo Fisichella
+{{flagicon|SUI}} Thomas Flohr","Ferrari 488 GTE","{{Michelin}}","200","+30 Laps"
+"27","LMGTE
+Am","54","{{flagicon|SUI}} Spirit of Race","{{flagicon|ITA}} Francesco Castellacci
+{{flagicon|ITA}} Giancarlo Fisichella
+{{flagicon|SUI}} Thomas Flohr","Ferrari F154CB 3.9 L Turbo V8","{{Michelin}}","200","+30 Laps"
+"28","LMGTE
+Am","61","{{flagicon|SIN}} Clearwater Racing","{{flagicon|IRE}} Matt Griffin
+{{flagicon|JPN}} Keita Sawa
+{{flagicon|MYS}} Weng Sun Mok","Ferrari 488 GTE","{{Michelin}}","200","+30 Laps"
+"28","LMGTE
+Am","61","{{flagicon|SIN}} Clearwater Racing","{{flagicon|IRE}} Matt Griffin
+{{flagicon|JPN}} Keita Sawa
+{{flagicon|MYS}} Weng Sun Mok","Ferrari F154CB 3.9 L Turbo V8","{{Michelin}}","200","+30 Laps"
+"DNF","LMP1","10","{{flagicon|USA}} DragonSpeed","{{flagicon|AUS}} James Allen
+{{flagicon|GBR}} Ben Hanley","BR Engineering BR1","{{Michelin}}","179","Mechanical"
+"DNF","LMP1","10","{{flagicon|USA}} DragonSpeed","{{flagicon|AUS}} James Allen
+{{flagicon|GBR}} Ben Hanley","Gibson GL458 4.5L V8","{{Michelin}}","179","Mechanical"
+"DNF","LMP1","17","{{flagicon|RUS}} SMP Racing","{{flagicon|RUS}} Matevos Isaakyan
+{{flagicon|RUS}} Egor Orudzhev
+{{flagicon|FRA}} Stéphane Sarrazin","BR Engineering BR1","{{Michelin}}","132","Mechanical"
+"DNF","LMP1","17","{{flagicon|RUS}} SMP Racing","{{flagicon|RUS}} Matevos Isaakyan
+{{flagicon|RUS}} Egor Orudzhev
+{{flagicon|FRA}} Stéphane Sarrazin","AER P60B 2.4L Turbo V6","{{Michelin}}","132","Mechanical"
+"DNF","LMP1","3","{{flagicon|SUI}} Rebellion Racing","{{flagicon|SUI}} Mathias Beche
+{{flagicon|USA}} Gustavo Menezes
+{{flagicon|FRA}} Thomas Laurent","Rebellion R13","{{Michelin}}","23","Accident"
+"DNF","LMP1","3","{{flagicon|SUI}} Rebellion Racing","{{flagicon|SUI}} Mathias Beche
+{{flagicon|USA}} Gustavo Menezes
+{{flagicon|FRA}} Thomas Laurent","Gibson GL458 4.5 L V8","{{Michelin}}","23","Accident"
+"DNF","LMGTE
+Am","70","{{flagicon|JPN}} MR Racing","{{flagicon|MON}} Olivier Beretta
+{{flagicon|ITA}} Eddie Cheever III
+{{flagicon|JPN}} Motoaki Ishikawa","Ferrari 488 GTE","{{Michelin}}","14","Puncture"
+"DNF","LMGTE
+Am","70","{{flagicon|JPN}} MR Racing","{{flagicon|MON}} Olivier Beretta
+{{flagicon|ITA}} Eddie Cheever III
+{{flagicon|JPN}} Motoaki Ishikawa","Ferrari F154CB 3.9 L Turbo V8","{{Michelin}}","14","Puncture"
+"DSQ","LMGTE
+Am","88","{{flagicon|GER}} Dempsey - Proton Racing","{{flagicon|ITA}} Matteo Cairoli
+{{flagicon|JPN}} Satoshi Hoshino
+{{flagicon|ITA}} Gianluca Roda","Porsche 911 RSR","{{Michelin}}","201","Disqualified{{refn|group=N|name=DempseyProton|Following the 6 Hours of Fuji, Dempsey-Proton Racing was penalized for exceeding the minimum refueling time during pit stops. Upon further investigation, the FIA data loggers for the team's cars were found to have been altered to manipulate the refueling times for the cars for at least two races. The team failed to disclose their consultant who tampered with the loggers, therefore the FIA, disqualified both cars from the 6 Hours of Fuji and nullified all points earned by the team prior to the Shanghai round, including manufacturer points the team had scored for Porsche.}}"
+"DSQ","LMGTE
+Am","88","{{flagicon|GER}} Dempsey - Proton Racing","{{flagicon|ITA}} Matteo Cairoli
+{{flagicon|JPN}} Satoshi Hoshino
+{{flagicon|ITA}} Gianluca Roda","Porsche 4.0L Flat 6","{{Michelin}}","201","Disqualified{{refn|group=N|name=DempseyProton|Following the 6 Hours of Fuji, Dempsey-Proton Racing was penalized for exceeding the minimum refueling time during pit stops. Upon further investigation, the FIA data loggers for the team's cars were found to have been altered to manipulate the refueling times for the cars for at least two races. The team failed to disclose their consultant who tampered with the loggers, therefore the FIA, disqualified both cars from the 6 Hours of Fuji and nullified all points earned by the team prior to the Shanghai round, including manufacturer points the team had scored for Porsche.}}"
+"DSQ","LMGTE
+Am","77","{{flagicon|GER}} Dempsey - Proton Racing","{{flagicon|FRA}} Julien Andlauer
+{{flagicon|AUS}} Matt Campbell
+{{flagicon|GER}} Christian Ried","Porsche 911 RSR","{{Michelin}}","176","Disqualified{{refn|group=N|name=DempseyProton}}"
+"DSQ","LMGTE
+Am","77","{{flagicon|GER}} Dempsey - Proton Racing","{{flagicon|FRA}} Julien Andlauer
+{{flagicon|AUS}} Matt Campbell
+{{flagicon|GER}} Christian Ried","Porsche 4.0L Flat 6","{{Michelin}}","176","Disqualified{{refn|group=N|name=DempseyProton}}"

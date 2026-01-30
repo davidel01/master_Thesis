@@ -1,0 +1,13 @@
+"Radiation","Energy (E)","WR (formerly Q)"
+"x-rays, gamma rays,
+beta particles, muons","x-rays, gamma rays,
+beta particles, muons","1"
+"neutrons","< 1 MeV","2.5 + 18.2·e−[ln(E)]²/6"
+"neutrons","1 MeV - 50 MeV","5.0 + 17.0·e−[ln(2·E)]²/6"
+"neutrons","> 50 MeV","2.5 + 3.25·e−[ln(0.04·E)]²/6"
+"protons, charged pions","protons, charged pions","2"
+"alpha particles,
+Nuclear fission products,
+heavy nuclei","alpha particles,
+Nuclear fission products,
+heavy nuclei","20"

@@ -1,0 +1,6 @@
+"&nbsp;{{green|✔}}&nbsp;","Coach pressed ""I WANT YOU"" button"
+"&nbsp;{{red|✔}}&nbsp;","Coach pressed ""I WANT YOU"" button, despite the lack of places in his/her team"
+"&nbsp;&nbsp;&nbsp;&nbsp;","Coach pressed ""I WANT YOU"" button, despite the lack of places in his/her team, and artist defaulted to a coach's team"
+"&nbsp;&nbsp;&nbsp;&nbsp;","Artist defaulted to a coach's team"
+"&nbsp;&nbsp;&nbsp;&nbsp;","Artist picked a coach's team"
+"&nbsp;&nbsp;&nbsp;&nbsp;","Artist eliminated with no coach pressing their button"

@@ -1,0 +1,7 @@
+"Class","Type of vehicles","Rate (in Malaysian Ringgit (RM))"
+"0","Motorcycles, bicycles or vehicles with 2 or less wheels","Free"
+"1","Vehicles with 2 axles and 3 or 4 wheels excluding taxis","RM1.30"
+"2","Vehicles with 2 axles and 5 or 6 wheels excluding buses","RM2.60"
+"3","Vehicles with 3 or more axles","RM2.60"
+"4","Taxis","RM0.70"
+"5","Buses","RM1.00"

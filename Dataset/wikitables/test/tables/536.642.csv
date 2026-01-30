@@ -1,0 +1,15 @@
+"","","X","X","X"
+"","","A","B","C"
+"Y","A","","[X] 5
+[Y] 8","[X] 9
+[Y] 4"
+"Y","B","[X] 8
+[Y] 5","","[X] 4
+[Y] 9"
+"Y","C","[X] 4
+[Y] 9","[X] 9
+[Y] 4",""
+"Pairwise election results (won-tied-lost):","Pairwise election results (won-tied-lost):","1-0-1","1-0-1","1-0-1"
+"worst pairwise defeat (winning votes):","worst pairwise defeat (winning votes):","9","8","9"
+"worst pairwise defeat (margins):","worst pairwise defeat (margins):","5","3","5"
+"worst pairwise opposition:","worst pairwise opposition:","9","8","9"

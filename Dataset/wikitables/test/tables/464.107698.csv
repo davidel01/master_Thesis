@@ -1,0 +1,7 @@
+"Symbol","Meaning"
+"Date","Day the Test started or ODI was held"
+"Inn","Innings in which five-wicket haul was taken"
+"O","Number of overs bowled"
+"R","Number of runs conceded"
+"W","Number of wickets taken"
+"Result","Result of the match"

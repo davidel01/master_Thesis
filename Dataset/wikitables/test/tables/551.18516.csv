@@ -1,0 +1,10 @@
+"","","Labial","Alveolar","Palatal","Velar","Labial-
+velar"
+"Plosive","voiceless","p","t","c","k","kp"
+"Plosive","voiced","b","d","ɟ","g","gb"
+"Fricative","voiceless","f","s","","",""
+"Fricative","voiced","v","z","","",""
+"Nasal","Nasal","m","n","ɲ","",""
+"Lateral","Lateral","","l","","",""
+"Trill","Trill","","r","","",""
+"Approximant","Approximant","","","j","","w"

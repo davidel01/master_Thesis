@@ -1,0 +1,8 @@
+"Feature","RMI 1","RMI 2"
+"Ultrasound abnormalities:
+multilocular cyst
+solid areas
+ascites
+intra-abdominal metastases","{{plainlist | * 0 {{=}} no abnormality * 1 {{=}} one abnormality * 3 {{=}} two or more abnormalities }}","{{plainlist | * 0 {{=}} none * 1 {{=}} one abnormality * 4 {{=}} two or more abnormalities }}"
+"Menopausal score","{{plainlist | * 1 {{=}} premenopausal * 3 {{=}} postmenopausal }}","{{plainlist | * 1 {{=}} premenopausal * 4 {{=}} postmenopausal }}"
+"CA-125","Quantity in U/ml","Quantity in U/ml"
