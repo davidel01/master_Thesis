@@ -1,0 +1,6 @@
+flight_number;departure_city;departure_country;departure_time;arrival_city;arrival_country;duration_hours
+AA1215;New York;USA;10:10 AM;Atlanta;USA;2.48
+NZ5365;Auckland;New Zealand;9:19 AM;Tokyo;Japan;16.99
+TG2442;Bangkok;Thailand;7:38 PM;Singapore;Singapore;21.94
+QR7315;Doha;Qatar;7:57 PM;Nairobi;Kenya;12.34
+KE3850;Seoul;South Korea;10:51 AM;Tokyo;Japan;2.97

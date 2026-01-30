@@ -1,0 +1,13 @@
+flight_number;departure_city;departure_country;departure_time;arrival_city;arrival_country;duration_hours
+QR5660;Doha;Qatar;1:04 AM;São Paulo;Brazil;3.07
+AV4742;Bogotá;Colombia;10:01 PM;Miami;USA;16.82
+EK9670;Dubai;UAE;10:39 AM;Los Angeles;USA;11.38
+AM6860;Mexico City;Mexico;9:07 PM;Chicago;USA;6.26
+AI3868;Delhi;India;4:51 AM;Mumbai;India;22.18
+IB2915;Madrid;Spain;9:51 AM;Paris;France;20.14
+ET5945;Addis Ababa;Ethiopia;2:34 AM;Doha;Qatar;4.44
+AA1215;New York;USA;10:10 AM;Atlanta;USA;2.48
+NZ5365;Auckland;New Zealand;9:19 AM;Tokyo;Japan;16.99
+TG2442;Bangkok;Thailand;7:38 PM;Singapore;Singapore;21.94
+QR7315;Doha;Qatar;7:57 PM;Nairobi;Kenya;12.34
+KE3850;Seoul;South Korea;10:51 AM;Tokyo;Japan;2.97

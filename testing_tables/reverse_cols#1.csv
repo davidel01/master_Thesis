@@ -1,0 +1,7 @@
+flight_number;departure_city;departure_country;departure_time;arrival_city;arrival_country;duration_hours
+KE7714;Seoul;South Korea;7:35 AM;Tokyo;Japan;8.91
+WN9004;Los Angeles;USA;5:38 AM;San Francisco;USA;19.72
+UA5661;Doha;Qatar;5:30 AM;Mumbai;India;6.19
+AM3367;Mexico City;Mexico;10:43 PM;Chicago;USA;16.63
+EK8161;Dubai;UAE;10:15 AM;Doha;Qatar;15.1
+LH8100;Frankfurt;Germany;12:05 PM;Paris;France;16.59
