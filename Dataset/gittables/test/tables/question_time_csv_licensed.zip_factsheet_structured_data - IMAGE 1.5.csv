@@ -1,0 +1,73 @@
+"IMAGE 1.5","project","","","",""
+"IMAGE 1.5","guiding questions","preamble","","","CDR strategies face several difficulties such as reliance on underground CO2 storage and competition for land with food production and biodiversity protection. The question arises whether alternative deep mitigation pathways exist?"
+"IMAGE 1.5","guiding questions","question","","1.0","How essential are bioenergy with carbon capture and storage, and other negative-emission technologies for the 1.5 degree target?"
+"IMAGE 1.5","results","preamble","","","The study illustrates how a combination of alternative 1.5°C pathways can significantly reduce the need for CDR. They are based on the inclusion of options which are not normally considered in integrated assessment analyses, such as lifestyle change, significant reductions of greenhouse gas emissions other than CO2, swift electrification of energy demand and low population growth. While each of these alternatives will still require rapid societal changes and faces its own specific barriers, several also show important synergies with other sustainability goals."
+"IMAGE 1.5","results","insight","","1.0","While this study shows that alternative options can greatly reduce the volume of CDR to achieve the 1.5 °C goal, nearly all scenarios still rely on BECCS and/or reforestation (even the hypothetical combination of all alternative options still captured 400 GtCO2 by reforestation). Therefore, investment in the development of CDR options remains an important strategy if the international community intends to implement the Paris target."
+"IMAGE 1.5","scenarios","preamble","","","The study explores alternative pathways leading to a radiative forcing level of 1.9 W m−2 in 2100. The scenarios are all based on the Shared Socioeconomic Pathway 2 (SSP2) scenario. In the SSP2 scenario, which forms part of the overall SSP set, middle-of-the-road assumptions have been made for all key model assumptions. The alternative scenarios are developed by implementing narrative-based changes to the input assumptions, mostly in the 2020–2050 period."
+"IMAGE 1.5","scenarios","scenario","name","1.0","AGInt"
+"IMAGE 1.5","scenarios","scenario","description","1.0","High agricultural yields and application of intensified animal husbandry globally."
+"IMAGE 1.5","scenarios","scenario","name","2.0","Def"
+"IMAGE 1.5","scenarios","scenario","description","2.0","Climate policy is implemented by a uniform carbon tax in all regions and sectors from 2020 onwards; the radiative forcing level is 1.9 W/m2 in 2100.16"
+"IMAGE 1.5","scenarios","scenario","name","3.0","Eff"
+"IMAGE 1.5","scenarios","scenario","description","3.0","Rapid application of best-available technologies for energy and material efficiency in all relevant sectors."
+"IMAGE 1.5","scenarios","scenario","name","4.0","LiStCh"
+"IMAGE 1.5","scenarios","scenario","description","4.0","Consumers change their habits towards a lifestyle which leads to lower GHG emissions. This includes a less meat-intensive diet (conforming to health recommendations), less CO2-intensive transport modes (following the current modal split in Japan), less intensive use of heating and cooling (change of 1oC in heating and cooling reference levels) and a reduction in the use of several domestic appliances."
+"IMAGE 1.5","scenarios","scenario","name","5.0","LoNCO2"
+"IMAGE 1.5","scenarios","scenario","description","5.0","Implementation of best-available technologies for reducing non-CO2 emissions and full adoption of cultured meat in 2050."
+"IMAGE 1.5","scenarios","scenario","name","6.0","Pop"
+"IMAGE 1.5","scenarios","scenario","description","6.0","Scenario based on SSP1 projecting low population growth. This leads globally to a population size 8.4 billion in 2050 (9.2 billion in SSP2) and 6.9 billion in 2100 (9 billion in SSP2)."
+"IMAGE 1.5","scenarios","scenario","name","7.0","RenElec"
+"IMAGE 1.5","scenarios","scenario","description","7.0","Higher electrification rates in all end-use sectors, in combination with optimistic assumptions on the integration of variable renewables and on costs of transmission, distribution, and storage."
+"IMAGE 1.5","scenarios","scenario","name","8.0","TOT"
+"IMAGE 1.5","scenarios","scenario","description","8.0","The combination of all the options described above."
+"IMAGE 1.5","data sources","source","name","1.0","SR1.5 database"
+"IMAGE 1.5","data sources","source","link","1.0","https://data.ene.iiasa.ac.at/iamc-1.5c-explorer/"
+"IMAGE 1.5","publications","reference","citation","1.0","Van Vuuren et al. (2018)"
+"IMAGE 1.5","publications","reference","type","1.0","journal article"
+"IMAGE 1.5","publications","reference","doi","1.0","10.1038/s41558-018-0119-8"
+"IMAGE 1.5","publications","reference","full","1.0","VAN VUUREN, D. P., STEHFEST, E., GERNAAT, D. E. H. J., VAN DEN BERG, M., BIJL, D. L., DE BOER, H. S., DAIOGLOU, V., DOELMAN, J. C., EDELENBOSCH, O. Y., HARMSEN, M., HOF, A. F. & VAN SLUISVELD, M. A. E. 2018. Alternative pathways to the 1.5 °c target reduce the need for negative emission technologies. Nature Climate Change, 8, 391-397."
+"IMAGE 1.5","publications","reference","ris","1.0","TY  - JOUR
+AU  - Van Vuuren, D. P.
+AU  - Stehfest, E.
+AU  - Gernaat, D. E. H. J.
+AU  - Van Den Berg, M.
+AU  - Bijl, D. L.
+AU  - De Boer, H. S.
+AU  - Daioglou, V.
+AU  - Doelman, J. C.
+AU  - Edelenbosch, O. Y.
+AU  - Harmsen, M.
+AU  - Hof, A. F.
+AU  - Van Sluisveld, M. A. E.
+DB  - Scopus
+DO  - 10.1038/s41558-018-0119-8
+IS  - 5
+M3  - Article
+N1  - Cited By :18
+Export Date: 26 November 2018
+PY  - 2018
+SP  - 391-397
+ST  - Alternative pathways to the 1.5 °c target reduce the need for negative emission technologies
+T2  - Nature Climate Change
+TI  - Alternative pathways to the 1.5 °c target reduce the need for negative emission technologies
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045256865&doi=10.1038%2fs41558-018-0119-8&partnerID=40&md5=dbce8db69f8d6b8c34cd5f62226eedca
+VL  - 8
+ID  - 58
+ER  - 
+"
+"IMAGE 1.5","models","preamble","","","A single model scenario analysis preformed using IMAGE"
+"IMAGE 1.5","models","model","name","1.0","IMAGE"
+"IMAGE 1.5","models","model","version","1.0","3.0.1"
+"IMAGE 1.5","year","","","","2018"
+"IMAGE 1.5","project","","","",""
+"IMAGE 1.5","keywords","keyword","","1.0","Shared Socioeconomic Pathways"
+"IMAGE 1.5","keywords","keyword","","2.0","Paris Agreement"
+"IMAGE 1.5","keywords","keyword","","4.0","CDR"
+"IMAGE 1.5","regional coverage","region","","1.0","World"
+"IMAGE 1.5","regional coverage","region","","2.0","Asia"
+"IMAGE 1.5","regional coverage","region","","3.0","Latin America"
+"IMAGE 1.5","regional coverage","region","","4.0","Middle East and Africa"
+"IMAGE 1.5","regional coverage","region","","5.0","OECD90+EU"
+"IMAGE 1.5","regional coverage","region","","6.0","Reforming Economies"
+"IMAGE 1.5","time horizon","start","","","2010"
+"IMAGE 1.5","","end","","","2100"

@@ -1,0 +1,8 @@
+"org/assertj/core/error/BasicErrorMessageFactory$UnquotedString.BasicErrorMessageFactory$UnquotedString","(Ljava/lang/String;)V","17","1"
+"org/assertj/core/error/BasicErrorMessageFactory$UnquotedString.length","()I","8","1"
+"org/assertj/core/error/BasicErrorMessageFactory$UnquotedString.charAt","(I)C","9","1"
+"org/assertj/core/error/BasicErrorMessageFactory$UnquotedString.subSequence","(II)Ljava/lang/CharSequence;","10","1"
+"org/assertj/core/error/BasicErrorMessageFactory$UnquotedString.toString","()Ljava/lang/String;","7","1"
+"org/assertj/core/error/BasicErrorMessageFactory$UnquotedString.hashCode","()I","33","2"
+"org/assertj/core/error/BasicErrorMessageFactory$UnquotedString.equals","(Ljava/lang/Object;)Z","60","7"
+"org/assertj/core/error/BasicErrorMessageFactory$UnquotedString.BasicErrorMessageFactory$UnquotedString","(Ljava/lang/String;Lorg/assertj/core/error/BasicErrorMessageFactory$UnquotedString;)V","8","1"
