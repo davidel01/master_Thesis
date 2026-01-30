@@ -1,0 +1,17 @@
+"Rectified 10-orthoplex","Rectified 10-orthoplex"
+"Type","uniform 10-polytope"
+"Schläfli symbol","t1{38,4}"
+"Coxeter-Dynkin diagrams","{{CDD|node|4|node_1|3|node|3|node|3|node|3|node|3|node|3|node|3|node|3|node}}
+{{CDD|nodes_11|split2|node|3|node|3|node|3|node|3|node|3|node|3|node|3|node}}"
+"7-faces",""
+"6-faces",""
+"5-faces",""
+"4-faces",""
+"Cells",""
+"Faces",""
+"Edges","46080"
+"Vertices","5120"
+"Vertex figure","8-simplex prism"
+"Coxeter groups","C10, [4,38]
+D10, [37,1,1]"
+"Properties","convex"

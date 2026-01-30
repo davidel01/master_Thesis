@@ -1,0 +1,6 @@
+"#","Order in reign history"
+"Reign","The reign number for the specific set of wrestlers listed"
+"Location","The city in which the title was won"
+"Event","The event in which the title was won"
+"—","Used for vacated reigns so as not to count it as an official reign"
+"+","Indicates the current reign is changing daily"

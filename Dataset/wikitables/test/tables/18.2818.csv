@@ -1,0 +1,5 @@
+"Population{{UN_Population|ref}}","Population{{UN_Population|ref}}"
+"Year","Million"
+"1950","1.7"
+"2000","5.6"
+"{{UN_Population|Year}}","{{#expr:{{formatnum:{{UN_Population|Papua New Guinea}}|R}}/1e6 round 1}}"

@@ -1,0 +1,15 @@
+"Great 120-cell","Great 120-cell"
+"Image:Ortho solid 008-uniform polychoron 5p5-t0.png
+Orthogonal projection","Image:Ortho solid 008-uniform polychoron 5p5-t0.png
+Orthogonal projection"
+"Type","Schläfli-Hess polytope"
+"Cells","120 {5,5/2}"
+"Faces","720 {5}"
+"Edges","720"
+"Vertices","120"
+"Vertex figure","{5/2,5}"
+"Schläfli symbol","{5,5/2,5}"
+"Coxeter-Dynkin diagram","{{CDD|node_1|5|node|5|rat|d2|node|5|node}}"
+"Symmetry group","H4, [3,3,5]"
+"Dual","self-dual"
+"Properties","Regular"

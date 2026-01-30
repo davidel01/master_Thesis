@@ -1,0 +1,128 @@
+"Pos","Class","No","Team","Drivers","Chassis","Tyre","Laps"
+"Pos","Class","No","Team","Drivers","Engine","Tyre","Laps"
+"1","LMP2","7","{{flagicon|United States}} Penske Racing","{{flagicon|France}} Romain Dumas
+{{flagicon|Germany}} Timo Bernhard","Porsche RS Spyder Evo","{{Michelin}}","106"
+"1","LMP2","7","{{flagicon|United States}} Penske Racing","{{flagicon|France}} Romain Dumas
+{{flagicon|Germany}} Timo Bernhard","Porsche MR6 3.4L V8","{{Michelin}}","106"
+"2","LMP1","2","{{flagicon|United States}} Audi Sport North America","{{flagicon|Italy}} Emanuele Pirro
+{{flagicon|Germany}} Marco Werner","Audi R10 TDI","{{Michelin}}","106"
+"2","LMP1","2","{{flagicon|United States}} Audi Sport North America","{{flagicon|Italy}} Emanuele Pirro
+{{flagicon|Germany}} Marco Werner","Audi 5.5L TDI V12
+(Diesel)","{{Michelin}}","106"
+"3","LMP1","1","{{flagicon|United States}} Audi Sport North America","{{flagicon|Italy}} Rinaldo Capello
+{{flagicon|United Kingdom}} Allan McNish","Audi R10 TDI","{{Michelin}}","106"
+"3","LMP1","1","{{flagicon|United States}} Audi Sport North America","{{flagicon|Italy}} Rinaldo Capello
+{{flagicon|United Kingdom}} Allan McNish","Audi 5.5L TDI V12
+(Diesel)","{{Michelin}}","106"
+"4","LMP2","16","{{flagicon|United States}} Dyson Racing","{{flagicon|United States}} Butch Leitzinger
+{{flagicon|United Kingdom}} Andy Wallace","Porsche RS Spyder Evo","{{Michelin}}","106"
+"4","LMP2","16","{{flagicon|United States}} Dyson Racing","{{flagicon|United States}} Butch Leitzinger
+{{flagicon|United Kingdom}} Andy Wallace","Porsche MR6 3.4L V8","{{Michelin}}","106"
+"5","LMP2","9","{{flagicon|United States}} Highcroft Racing","{{flagicon|Australia}} David Brabham
+{{flagicon|Sweden}} Stefan Johansson","Acura ARX-01a","{{Michelin}}","106"
+"5","LMP2","9","{{flagicon|United States}} Highcroft Racing","{{flagicon|Australia}} David Brabham
+{{flagicon|Sweden}} Stefan Johansson","Acura AL7R 3.4L V8","{{Michelin}}","106"
+"6","LMP2","15","{{flagicon|Mexico}} Lowe's Fernández Racing","{{flagicon|Mexico}} Adrian Fernández
+{{flagicon|Mexico}} Luis Diaz","Lola B06/43","{{Michelin}}","106"
+"6","LMP2","15","{{flagicon|Mexico}} Lowe's Fernández Racing","{{flagicon|Mexico}} Adrian Fernández
+{{flagicon|Mexico}} Luis Diaz","Acura AL7R 3.4L V8","{{Michelin}}","106"
+"7","LMP2","20","{{flagicon|United States}} Dyson Racing","{{flagicon|United States}} Chris Dyson
+{{flagicon|United Kingdom}} Guy Smith","Porsche RS Spyder Evo","{{Michelin}}","106"
+"7","LMP2","20","{{flagicon|United States}} Dyson Racing","{{flagicon|United States}} Chris Dyson
+{{flagicon|United Kingdom}} Guy Smith","Porsche MR6 3.4L V8","{{Michelin}}","106"
+"8","LMP2","8","{{flagicon|United States}} B-K Motorsports
+{{flagicon|Japan}} Mazdaspeed","{{flagicon|United States}} Jamie Bach
+{{flagicon|United Kingdom}} Ben Devlin","Lola B07/46","{{Kumho}}","105"
+"8","LMP2","8","{{flagicon|United States}} B-K Motorsports
+{{flagicon|Japan}} Mazdaspeed","{{flagicon|United States}} Jamie Bach
+{{flagicon|United Kingdom}} Ben Devlin","Mazda MZR-R 2.0L Turbo I4","{{Kumho}}","105"
+"9","LMP2","6","{{flagicon|United States}} Penske Racing","{{flagicon|Germany}} Sascha Maassen
+{{flagicon|Australia}} Ryan Briscoe","Porsche RS Spyder Evo","{{Michelin}}","104"
+"9","LMP2","6","{{flagicon|United States}} Penske Racing","{{flagicon|Germany}} Sascha Maassen
+{{flagicon|Australia}} Ryan Briscoe","Porsche MR6 3.4L V8","{{Michelin}}","104"
+"10","GT1","3","{{flagicon|United States}} Corvette Racing","{{flagicon|United States}} Johnny O'Connell
+{{flagicon|Denmark}} Jan Magnussen","Chevrolet Corvette C6.R","{{Michelin}}","103"
+"10","GT1","3","{{flagicon|United States}} Corvette Racing","{{flagicon|United States}} Johnny O'Connell
+{{flagicon|Denmark}} Jan Magnussen","Chevrolet LS7-R 7.0L V8","{{Michelin}}","103"
+"11","GT1","4","{{flagicon|United States}} Corvette Racing","{{flagicon|United Kingdom}} Oliver Gavin
+{{flagicon|Monaco}} Olivier Beretta","Chevrolet Corvette C6.R","{{Michelin}}","102"
+"11","GT1","4","{{flagicon|United States}} Corvette Racing","{{flagicon|United Kingdom}} Oliver Gavin
+{{flagicon|Monaco}} Olivier Beretta","Chevrolet LS7-R 7.0L V8","{{Michelin}}","102"
+"12","GT2","62","{{flagicon|United States}} Risi Competizione","{{flagicon|Finland}} Mika Salo
+{{flagicon|Brazil}} Jaime Melo","Ferrari F430GT","{{Michelin}}","101"
+"12","GT2","62","{{flagicon|United States}} Risi Competizione","{{flagicon|Finland}} Mika Salo
+{{flagicon|Brazil}} Jaime Melo","Ferrari 4.0L V8","{{Michelin}}","101"
+"13","GT2","44","{{flagicon|United States}} Flying Lizard Motorsports","{{flagicon|United States}} Darren Law
+{{flagicon|United States}} Patrick Long","Porsche 997 GT3-RSR","{{Michelin}}","101"
+"13","GT2","44","{{flagicon|United States}} Flying Lizard Motorsports","{{flagicon|United States}} Darren Law
+{{flagicon|United States}} Patrick Long","Porsche 3.8L Flat-6","{{Michelin}}","101"
+"14","GT2","31","{{flagicon|United States}} Petersen Motorsports
+{{flagicon|United States}} White Lightning Racing","{{flagicon|United Kingdom}} Peter Dumbreck
+{{flagicon|Germany}} Dirk Müller","Ferrari F430GT","{{Michelin}}","100"
+"14","GT2","31","{{flagicon|United States}} Petersen Motorsports
+{{flagicon|United States}} White Lightning Racing","{{flagicon|United Kingdom}} Peter Dumbreck
+{{flagicon|Germany}} Dirk Müller","Ferrari 4.0L V8","{{Michelin}}","100"
+"15","GT2","61","{{flagicon|United States}} Risi Competizione","{{flagicon|France}} Éric Hélary
+{{flagicon|Italy}} Gianmaria Bruni","Ferrari F430GT","{{Michelin}}","100"
+"15","GT2","61","{{flagicon|United States}} Risi Competizione","{{flagicon|France}} Éric Hélary
+{{flagicon|Italy}} Gianmaria Bruni","Ferrari 4.0L V8","{{Michelin}}","100"
+"16","LMP1","06","{{flagicon|United States}} Team Cytosport","{{flagicon|United States}} Greg Pickett
+{{flagicon|Germany}} Klaus Graf","Lola B06/10","{{Dunlop}}","99"
+"16","LMP1","06","{{flagicon|United States}} Team Cytosport","{{flagicon|United States}} Greg Pickett
+{{flagicon|Germany}} Klaus Graf","AER P32T 3.6L Turbo V8","{{Dunlop}}","99"
+"17","GT2","73","{{flagicon|United States}} Tafel Racing","{{flagicon|United States}} Jim Tafel
+{{flagicon|Germany}} Dominik Farnbacher","Porsche 997 GT3-RSR","{{Michelin}}","98"
+"17","GT2","73","{{flagicon|United States}} Tafel Racing","{{flagicon|United States}} Jim Tafel
+{{flagicon|Germany}} Dominik Farnbacher","Porsche 3.8L Flat-6","{{Michelin}}","98"
+"18","GT2","54","{{flagicon|United States}} Team Trans Sport Racing","{{flagicon|United States}} Terry Borcheller
+{{flagicon|United States}} Tim Pappas","Porsche 997 GT3-RSR","{{Yokohama}}","98"
+"18","GT2","54","{{flagicon|United States}} Team Trans Sport Racing","{{flagicon|United States}} Terry Borcheller
+{{flagicon|United States}} Tim Pappas","Porsche 3.8L Flat-6","{{Yokohama}}","98"
+"19","LMP2","26","{{flagicon|United States}} Andretti Green Racing","{{flagicon|United States}} Bryan Herta
+{{flagicon|United Kingdom}} Marino Franchitti","Acura ARX-01a","{{Michelin}}","92"
+"19","LMP2","26","{{flagicon|United States}} Andretti Green Racing","{{flagicon|United States}} Bryan Herta
+{{flagicon|United Kingdom}} Marino Franchitti","Acura AL7R 3.4L V8","{{Michelin}}","92"
+"20
+NC","GT2","22","{{flagicon|United States}} Panoz Team PTG","{{flagicon|United States}} Bill Auberlen
+{{flagicon|United States}} Joey Hand","Panoz Esperante GT-LM","{{Yokohama}}","73"
+"20
+NC","GT2","22","{{flagicon|United States}} Panoz Team PTG","{{flagicon|United States}} Bill Auberlen
+{{flagicon|United States}} Joey Hand","Ford (Élan) 5.0L V8","{{Yokohama}}","73"
+"21
+NC","GT2","11","{{flagicon|United States}} Primetime Race Group","{{flagicon|United States}} Joel Feinberg
+{{flagicon|United States}} Chapman Ducote","Dodge Viper Competition Coupe","{{Michelin}}","67"
+"21
+NC","GT2","11","{{flagicon|United States}} Primetime Race Group","{{flagicon|United States}} Joel Feinberg
+{{flagicon|United States}} Chapman Ducote","Dodge 8.3L V10","{{Michelin}}","67"
+"22
+DNF","GT2","18","{{flagicon|United States}} Rahal Letterman Racing","{{flagicon|United States}} Tom Milner Jr.
+{{flagicon|Germany}} Ralf Kelleners","Porsche 997 GT3-RSR","{{Michelin}}","61"
+"22
+DNF","GT2","18","{{flagicon|United States}} Rahal Letterman Racing","{{flagicon|United States}} Tom Milner Jr.
+{{flagicon|Germany}} Ralf Kelleners","Porsche 3.8L Flat-6","{{Michelin}}","61"
+"23
+DNF","GT2","45","{{flagicon|United States}} Flying Lizard Motorsports","{{flagicon|United States}} Johannes van Overbeek
+{{flagicon|Germany}} Jörg Bergmeister","Porsche 997 GT3-RSR","{{Michelin}}","57"
+"23
+DNF","GT2","45","{{flagicon|United States}} Flying Lizard Motorsports","{{flagicon|United States}} Johannes van Overbeek
+{{flagicon|Germany}} Jörg Bergmeister","Porsche 3.8L Flat-6","{{Michelin}}","57"
+"24
+DNF","GT2","71","{{flagicon|United States}} Tafel Racing","{{flagicon|Germany}} Wolf Henzler
+{{flagicon|United Kingdom}} Robin Liddell","Porsche 997 GT3-RSR","{{Michelin}}","53"
+"24
+DNF","GT2","71","{{flagicon|United States}} Tafel Racing","{{flagicon|Germany}} Wolf Henzler
+{{flagicon|United Kingdom}} Robin Liddell","Porsche 3.8L Flat-6","{{Michelin}}","53"
+"25
+DNF","LMP1","37","{{flagicon|United States}} Intersport Racing","{{flagicon|United States}} Jon Field
+{{flagicon|United States}} Clint Field
+{{flagicon|United States}} Richard Berry","Creation CA06/H","{{Dunlop}}","1"
+"25
+DNF","LMP1","37","{{flagicon|United States}} Intersport Racing","{{flagicon|United States}} Jon Field
+{{flagicon|United States}} Clint Field
+{{flagicon|United States}} Richard Berry","Judd GV5 S2 5.0L V10","{{Dunlop}}","1"
+"DNS","GT2","53","{{flagicon|United States}} Robertson Racing","{{flagicon|United States}} David Robertson
+{{flagicon|United States}} Andrea Robertson
+{{flagicon|United States}} David Murry","Panoz Esperante GT-LM","{{Dunlop}}","-"
+"DNS","GT2","53","{{flagicon|United States}} Robertson Racing","{{flagicon|United States}} David Robertson
+{{flagicon|United States}} Andrea Robertson
+{{flagicon|United States}} David Murry","Ford (Élan) 5.0L V8","{{Dunlop}}","-"

@@ -1,0 +1,6 @@
+"fuel","T [keV]","/T2 [m3/s/keV2]"
+"{{nuclide|deuterium}}-{{nuclide|tritium}}","13.6","1.24×10−24"
+"{{nuclide|deuterium}}-{{nuclide|deuterium}}","15","1.28×10−26"
+"{{nuclide|deuterium}}-{{nuclide|helium|3}}","58","2.24×10−26"
+"p+-{{nuclide|lithium|6}}","66","1.46×10−27"
+"p+-{{nuclide|boron|11}}","123","3.01×10−27"

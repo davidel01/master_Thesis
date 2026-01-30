@@ -1,0 +1,15 @@
+"Small stellated 120-cell","Small stellated 120-cell"
+"Image:ortho solid 010-uniform polychoron p53-t0.png
+Orthogonal projection","Image:ortho solid 010-uniform polychoron p53-t0.png
+Orthogonal projection"
+"Type","Schläfli-Hess polytope"
+"Cells","120 {5/2,5}"
+"Faces","720 {5/2}"
+"Edges","1200"
+"Vertices","120"
+"Vertex figure","{5,3}"
+"Schläfli symbol","{5/2,5,3}"
+"Coxeter-Dynkin diagram","{{CDD|node_1|5|rat|d2|node|5|node|3|node}}"
+"Symmetry group","H4, [3,3,5]"
+"Dual","Icosahedral 120-cell"
+"Properties","Regular"
